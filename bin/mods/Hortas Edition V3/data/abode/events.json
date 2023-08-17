@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "dave",
+		"player1": "AfternoonShadeBF",
+		"player2": "daveAbode1",
+		"player3": null,
+		"events": [
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"daveAbode2"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				74666.6666666667,
+				[
+					[
+						"Change Character",
+						"bf",
+						"YellowShadeBoyfriend"
+					],
+					[
+						"Change Character",
+						"dad",
+						"daveAbode3D"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"daveAbode2"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				149333.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"AfternoonShadeBF"
+					],
+					[
+						"Change Character",
+						"dad",
+						"daveAbode1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Abode"
+	}
+}

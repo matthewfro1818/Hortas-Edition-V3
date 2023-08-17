@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "urw-animated idle"
+		},
+		{
+			"offsets": [
+				80,
+				-70
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "urw-animated singLEFT"
+		},
+		{
+			"offsets": [
+				-109,
+				-53
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "urw-animated singRIGHT"
+		},
+		{
+			"offsets": [
+				20,
+				89
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "urw-animated singUP"
+		},
+		{
+			"offsets": [
+				-40,
+				-200
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "urw-animated singDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/communistohshit",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "russia",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		1,
+		0
+	],
+	"camera_position": [
+		-250,
+		-280
+	],
+	"sing_duration": 6.1,
+	"scale": 2.3
+}

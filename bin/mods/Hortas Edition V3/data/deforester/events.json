@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3.8,
+		"stage": "hortasbg",
+		"player1": "Hortfriend",
+		"player2": "hescone",
+		"player3": null,
+		"events": [
+			[
+				21083.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.055",
+						" 0.09"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "DEFORESTER"
+	}
+}

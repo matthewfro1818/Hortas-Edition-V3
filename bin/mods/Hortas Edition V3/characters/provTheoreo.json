@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TheoreticalEcksping idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ProvtheoreticalEcksping",
+	"position": [
+		100,
+		20
+	],
+	"healthicon": "expu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		190
+	],
+	"camera_position": [
+		-950,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 2.15
+}

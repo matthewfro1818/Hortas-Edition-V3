@@ -1,0 +1,58 @@
+{
+	"storyName": "bambivolution 3: \"the finale\" ",
+	"difficulties": "Normal, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "bambi3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"heavenly",
+			"holy",
+			[
+				160,
+				160,
+				0
+			]
+		],
+		[
+			"vulgate",
+			"jerem",
+			[
+				0,
+				165,
+				0
+			]
+		],
+		[
+			"grievous",
+			"expungedbside2",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"demiurge",
+			"conbiz",
+			[
+				0,
+				0,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bambi3"
+}

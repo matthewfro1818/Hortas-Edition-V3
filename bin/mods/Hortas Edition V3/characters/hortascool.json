@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				400,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				200,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/hortascool",
+	"position": [
+		350,
+		20
+	],
+	"healthicon": "hortas",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		0,
+		223
+	],
+	"camera_position": [
+		-520,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

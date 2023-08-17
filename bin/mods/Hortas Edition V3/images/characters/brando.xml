@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="brando.png"><SubTexture name="brando idle0000" x="2763" y="2392" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0001" x="3861" y="0" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0002" x="3861" y="786" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0003" x="3861" y="1572" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0004" x="3861" y="2358" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0005" x="0" y="3187" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0006" x="899" y="3187" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0007" x="1798" y="3187" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0008" x="2697" y="3187" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0009" x="3596" y="3187" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0010" x="0" y="3973" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0011" x="899" y="3973" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0012" x="1798" y="3973" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0013" x="2697" y="3973" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0014" x="3596" y="3973" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0015" x="4760" y="0" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando idle0016" x="4760" y="786" width="899" height="786" frameX="0" frameY="0" frameWidth="899" frameHeight="786" />
+<SubTexture name="brando down0000" x="2910" y="796" width="921" height="795" frameX="0" frameY="0" frameWidth="921" frameHeight="795" />
+<SubTexture name="brando down0001" x="2910" y="1591" width="921" height="795" frameX="0" frameY="0" frameWidth="921" frameHeight="795" />
+<SubTexture name="brando down0002" x="0" y="2392" width="921" height="795" frameX="0" frameY="0" frameWidth="921" frameHeight="795" />
+<SubTexture name="brando down0003" x="921" y="2392" width="921" height="795" frameX="0" frameY="0" frameWidth="921" frameHeight="795" />
+<SubTexture name="brando down0004" x="1842" y="2392" width="921" height="795" frameX="0" frameY="0" frameWidth="921" frameHeight="795" />
+<SubTexture name="brando left0000" x="0" y="0" width="970" height="798" frameX="0" frameY="0" frameWidth="970" frameHeight="798" />
+<SubTexture name="brando left0001" x="970" y="0" width="970" height="798" frameX="0" frameY="0" frameWidth="970" frameHeight="798" />
+<SubTexture name="brando left0002" x="0" y="798" width="970" height="798" frameX="0" frameY="0" frameWidth="970" frameHeight="798" />
+<SubTexture name="brando left0003" x="970" y="798" width="970" height="798" frameX="0" frameY="0" frameWidth="970" frameHeight="798" />
+<SubTexture name="brando left0004" x="1940" y="0" width="970" height="798" frameX="0" frameY="0" frameWidth="970" frameHeight="798" />
+<SubTexture name="brando right0000" x="4760" y="1572" width="742" height="722" frameX="0" frameY="0" frameWidth="742" frameHeight="722" />
+<SubTexture name="brando right0001" x="4760" y="2294" width="742" height="722" frameX="0" frameY="0" frameWidth="742" frameHeight="722" />
+<SubTexture name="brando right0002" x="4760" y="3016" width="742" height="722" frameX="0" frameY="0" frameWidth="742" frameHeight="722" />
+<SubTexture name="brando right0003" x="4760" y="3738" width="742" height="722" frameX="0" frameY="0" frameWidth="742" frameHeight="722" />
+<SubTexture name="brando right0004" x="0" y="4759" width="742" height="722" frameX="0" frameY="0" frameWidth="742" frameHeight="722" />
+<SubTexture name="brando up0000" x="1940" y="798" width="951" height="796" frameX="0" frameY="0" frameWidth="951" frameHeight="796" />
+<SubTexture name="brando up0001" x="0" y="1596" width="951" height="796" frameX="0" frameY="0" frameWidth="951" frameHeight="796" />
+<SubTexture name="brando up0002" x="951" y="1596" width="951" height="796" frameX="0" frameY="0" frameWidth="951" frameHeight="796" />
+<SubTexture name="brando up0003" x="1902" y="1596" width="951" height="796" frameX="0" frameY="0" frameWidth="951" frameHeight="796" />
+<SubTexture name="brando up0004" x="2910" y="0" width="951" height="796" frameX="0" frameY="0" frameWidth="951" frameHeight="796" />
+</TextureAtlas>

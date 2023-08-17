@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sep idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "alt",
+			"indices": [],
+			"name": "sep alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "sep alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "sep down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				20
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "sep up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				-5
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sep right"
+		},
+		{
+			"offsets": [
+				1,
+				-2
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sep left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sex",
+	"position": [
+		-420,
+		-210
+	],
+	"healthicon": "sex",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="betrayed.png">
+<SubTexture name="betrayed idle0000" x="0" y="0" width="1304" height="1197" frameX="-23" frameY="-6" frameWidth="1384" frameHeight="1208" />
+</TextureAtlas>

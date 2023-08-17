@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/conbiz",
+	"position": [
+		0,
+		-100
+	],
+	"healthicon": "conbiz",
+	"flip_x": false,
+	"healthbar_colors": [
+		1,
+		141,
+		121
+	],
+	"camera_position": [
+		-450,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

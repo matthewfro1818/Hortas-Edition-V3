@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "sisters idle"
+		},
+		{
+			"offsets": [
+				200,
+				-70
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sisters left"
+		},
+		{
+			"offsets": [
+				-110,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sisters right"
+		},
+		{
+			"offsets": [
+				-60,
+				90
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sisters up"
+		},
+		{
+			"offsets": [
+				0,
+				-200
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sisters down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sisters",
+	"position": [
+		-250,
+		-160
+	],
+	"healthicon": "sister",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		42,
+		51
+	],
+	"camera_position": [
+		-110,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

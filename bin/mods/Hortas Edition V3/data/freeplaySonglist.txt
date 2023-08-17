@@ -1,0 +1,4 @@
+outerspace:screw:#00222222
+upheaval:fard:#00222222
+vexation:halo:#0000008B
+oppositionbside:expungedbside:#0000008B:

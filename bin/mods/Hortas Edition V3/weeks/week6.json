@@ -1,0 +1,58 @@
+{
+	"storyName": "bambivolution 6: morpheous",
+	"difficulties": "Normal, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "bambi6",
+	"freeplayColor": [
+		255,
+		0,
+		255 
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"dereliction",
+			"morpheous",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"forsaken",
+			"morphed",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"godforsaken",
+			"whar",
+			[
+				255,
+				155,
+				255
+			]
+		],
+		[
+			"predestined",
+			"whar",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bambi6"
+}

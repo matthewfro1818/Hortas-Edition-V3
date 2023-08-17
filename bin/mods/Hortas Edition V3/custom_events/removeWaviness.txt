@@ -1,0 +1,3 @@
+clear shaders whaaaaaaaaaaaaaaaat
+
+value 1: shader clear

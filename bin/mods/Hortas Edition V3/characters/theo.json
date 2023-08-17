@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-68,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "  Idle"
+		},
+		{
+			"offsets": [
+				-68,
+				200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "  Up"
+		},
+		{
+			"offsets": [
+				-68,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "  Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				150
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "  Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				149
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "  Left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/theo",
+	"position": [
+		-610,
+		60
+	],
+	"healthicon": "theo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		80
+	],
+	"camera_position": [
+		220,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

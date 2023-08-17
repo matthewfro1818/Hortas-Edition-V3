@@ -1,0 +1,103 @@
+{
+	"storyName": "extras lol",
+	"difficulties": "Normal, legacy",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"theomania",
+			"theo",
+			[
+				160,
+				160,
+				0
+			]
+		],
+		[
+			"hyperactivity",
+			"brando",
+			[
+				160,
+				160,
+				0
+			]
+		],
+		[
+			"eternal",
+			"bambihat",
+			[
+				160,
+				160,
+				0
+			]
+		],
+		[
+			"resentful",
+			"screw",
+			[
+				160,
+				160,
+				0
+			]
+		],
+		[
+			"agony",
+			"betray",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"starch",
+			"tress",
+			[
+				160,
+				160,
+				0
+			]
+		],
+		[
+			"sport-chaos",
+			"matt",
+			[
+				145,
+				105,
+				0
+			]
+		],
+		[
+			"afjap",
+			"hjoim",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"dace",
+			"dace",
+			[
+				160,
+				160,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "bambiextra"
+}

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="heavenlyEckspinch.png"><SubTexture name="heavenly idle0000" x="1772" y="862" width="752" height="861" frameX="0" frameY="0" frameWidth="752" frameHeight="861" />
+<SubTexture name="heavenly left0000" x="0" y="0" width="886" height="862" frameX="0" frameY="0" frameWidth="886" frameHeight="862" />
+<SubTexture name="heavenly left0001" x="886" y="0" width="886" height="862" frameX="0" frameY="0" frameWidth="886" frameHeight="862" />
+<SubTexture name="heavenly left0002" x="0" y="862" width="886" height="862" frameX="0" frameY="0" frameWidth="886" frameHeight="862" />
+<SubTexture name="heavenly left0003" x="886" y="862" width="886" height="862" frameX="0" frameY="0" frameWidth="886" frameHeight="862" />
+<SubTexture name="heavenly left0004" x="1772" y="0" width="886" height="862" frameX="0" frameY="0" frameWidth="886" frameHeight="862" />
+<SubTexture name="heavenly right0000" x="0" y="1724" width="944" height="862" frameX="0" frameY="0" frameWidth="944" frameHeight="862" />
+<SubTexture name="heavenly right0001" x="944" y="1724" width="944" height="862" frameX="0" frameY="0" frameWidth="944" frameHeight="862" />
+<SubTexture name="heavenly right0002" x="2658" y="0" width="944" height="862" frameX="0" frameY="0" frameWidth="944" frameHeight="862" />
+<SubTexture name="heavenly right0003" x="2658" y="862" width="944" height="862" frameX="0" frameY="0" frameWidth="944" frameHeight="862" />
+<SubTexture name="heavenly right0004" x="2658" y="1724" width="944" height="862" frameX="0" frameY="0" frameWidth="944" frameHeight="862" />
+<SubTexture name="heavenly up0000" x="0" y="2586" width="878" height="815" frameX="0" frameY="0" frameWidth="878" frameHeight="815" />
+<SubTexture name="heavenly up0001" x="878" y="2586" width="878" height="815" frameX="0" frameY="0" frameWidth="878" frameHeight="815" />
+<SubTexture name="heavenly up0002" x="1756" y="2586" width="878" height="815" frameX="0" frameY="0" frameWidth="878" frameHeight="815" />
+<SubTexture name="heavenly up0003" x="2634" y="2586" width="878" height="815" frameX="0" frameY="0" frameWidth="878" frameHeight="815" />
+<SubTexture name="heavenly up0004" x="1756" y="2586" width="878" height="815" frameX="0" frameY="0" frameWidth="878" frameHeight="815" />
+<SubTexture name="heavenly down0000" x="3602" y="0" width="814" height="729" frameX="0" frameY="0" frameWidth="814" frameHeight="729" />
+<SubTexture name="heavenly down0001" x="3602" y="729" width="814" height="729" frameX="0" frameY="0" frameWidth="814" frameHeight="729" />
+<SubTexture name="heavenly down0002" x="3602" y="1458" width="814" height="729" frameX="0" frameY="0" frameWidth="814" frameHeight="729" />
+<SubTexture name="heavenly down0003" x="3602" y="2187" width="814" height="729" frameX="0" frameY="0" frameWidth="814" frameHeight="729" />
+<SubTexture name="heavenly down0004" x="0" y="3401" width="814" height="729" frameX="0" frameY="0" frameWidth="814" frameHeight="729" />
+</TextureAtlas>

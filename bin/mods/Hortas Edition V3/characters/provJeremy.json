@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				300,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				299,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				298,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				297,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				301,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"name": "up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/JeremyCool",
+	"position": [
+		920,
+		110
+	],
+	"healthicon": "jerem",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		220,
+		93
+	],
+	"camera_position": [
+		-1160,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

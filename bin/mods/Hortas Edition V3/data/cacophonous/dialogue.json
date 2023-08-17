@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "alright what the fuck is going on"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "literally battled bambi and he vanished"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "rap battled another guy and he vanished"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "and also rap battled a cone looking shit and he vanished"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "am i fucking dreaming or what??????????"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Phone!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BEEP!"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Idiot."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "skleep boop beep"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Phone!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "??????"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Phone!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hello??"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skleep boop bep"
+		},
+		{
+			"speed": 0.085,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Baldi, He's Dead!"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "what"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Phone!"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "alright what the fuck is wrong with you"
+		},
+		{
+			"speed": 0.08,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fucking idiot."
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "!?!!??!?!"
+		}
+	]
+}

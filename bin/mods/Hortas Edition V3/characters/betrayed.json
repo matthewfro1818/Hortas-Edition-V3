@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "betrayed idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/betrayed",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "betrayed",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		75,
+		75
+	],
+	"camera_position": [
+		-930,
+		-2370
+	],
+	"sing_duration": 4,
+	"scale": 4
+}

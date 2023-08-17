@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		130
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "bambi left0000",
+			"idle_name": "bambi left0000"
+		},
+		{
+			"loop_name": "bambi down0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambi down0000",
+			"anim": "talk2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bambi up0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambi up0000",
+			"anim": "talk3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bambi right0000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bambi right0000",
+			"anim": "talk4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bambimaddddd"
+}

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ant.png"><SubTexture name="ant down0000" x="1783" y="0" width="345" height="289" frameX="-1257" frameY="-365" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant down0001" x="1119" y="1404" width="348" height="295" frameX="-1256" frameY="-357" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant down0002" x="770" y="1404" width="349" height="309" frameX="-1255" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant shoot0000" x="327" y="407" width="305" height="331" frameX="-1216" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant shoot0001" x="877" y="0" width="382" height="331" frameX="-1139" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant shoot0002" x="877" y="331" width="276" height="331" frameX="-1245" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant shoot0003" x="0" y="742" width="282" height="331" frameX="-1245" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant shoot0004" x="282" y="742" width="307" height="331" frameX="-1245" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant shoot0005" x="589" y="742" width="285" height="331" frameX="-1245" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant shoot0006" x="874" y="742" width="276" height="331" frameX="-1245" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant shoot0007" x="1259" y="0" width="276" height="331" frameX="-1245" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant idle0000" x="510" y="1404" width="260" height="319" frameX="-1283" frameY="-337" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant idle0001" x="1110" y="1073" width="256" height="322" frameX="-1273" frameY="-330" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant idle0002" x="580" y="1073" width="249" height="329" frameX="-1263" frameY="-325" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant idle0003" x="1259" y="331" width="247" height="331" frameX="-1253" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant two0000" x="632" y="407" width="244" height="325" frameX="-1205" frameY="-330" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant two0001" x="1535" y="0" width="248" height="322" frameX="-1215" frameY="-333" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant two0002" x="1259" y="662" width="248" height="331" frameX="-1236" frameY="-326" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant two0003" x="1259" y="331" width="247" height="331" frameX="-1253" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant left0000" x="0" y="407" width="327" height="335" frameX="-1205" frameY="-323" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant left0001" x="0" y="1073" width="303" height="331" frameX="-1214" frameY="-321" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant left0002" x="303" y="1073" width="277" height="331" frameX="-1227" frameY="-324" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant right0000" x="829" y="1073" width="281" height="324" frameX="-1290" frameY="-334" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant right0001" x="254" y="1404" width="256" height="321" frameX="-1289" frameY="-334" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant right0002" x="0" y="1404" width="254" height="322" frameX="-1269" frameY="-331" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant up0000" x="0" y="0" width="292" height="407" frameX="-1258" frameY="-266" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant up0001" x="292" y="0" width="292" height="386" frameX="-1257" frameY="-282" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ant up0002" x="584" y="0" width="293" height="370" frameX="-1255" frameY="-300" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

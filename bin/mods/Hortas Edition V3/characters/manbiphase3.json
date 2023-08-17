@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				300,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "manbe idle"
+		},
+		{
+			"offsets": [
+				234,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "manbe down"
+		},
+		{
+			"offsets": [
+				690,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "manbe left"
+		},
+		{
+			"offsets": [
+				283,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "manbe right"
+		},
+		{
+			"offsets": [
+				260,
+				508
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "manbe up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/manbe",
+	"position": [
+		1200,
+		10
+	],
+	"healthicon": "manbip3",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		85,
+		198
+	],
+	"camera_position": [
+		-780,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}

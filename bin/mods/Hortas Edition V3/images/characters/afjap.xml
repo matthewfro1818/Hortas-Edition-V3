@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="afjap.png"><SubTexture name="afjap idle0000" x="0" y="0" width="920" height="926" frameX="-58" frameY="0" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap idle0001" x="920" y="0" width="763" height="857" frameX="-115" frameY="-32" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap idle0002" x="1683" y="0" width="628" height="783" frameX="-187" frameY="-102" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap idle0003" x="507" y="1692" width="498" height="642" frameX="-291" frameY="-173" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap idle0004" x="1504" y="1692" width="490" height="623" frameX="-228" frameY="-201" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap idle0005" x="1005" y="1692" width="499" height="632" frameX="-233" frameY="-163" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap down0000" x="1994" y="1692" width="428" height="623" frameX="-278" frameY="-217" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap down0001" x="0" y="2371" width="460" height="613" frameX="-265" frameY="-169" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap down0002" x="2422" y="1692" width="493" height="617" frameX="-245" frameY="-125" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap left0000" x="1453" y="2371" width="532" height="527" frameX="-132" frameY="-171" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap left0001" x="460" y="2371" width="495" height="531" frameX="-190" frameY="-170" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap left0002" x="955" y="2371" width="498" height="529" frameX="-214" frameY="-174" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap right0000" x="0" y="926" width="744" height="766" frameX="-156" frameY="-114" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap right0001" x="744" y="926" width="728" height="734" frameX="-148" frameY="-133" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap right0002" x="2311" y="0" width="703" height="699" frameX="-147" frameY="-160" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap up0000" x="2311" y="699" width="507" height="680" frameX="-226" frameY="-12" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap up0001" x="0" y="1692" width="507" height="679" frameX="-223" frameY="-57" frameWidth="988" frameHeight="972" />
+<SubTexture name="afjap up0002" x="1472" y="926" width="501" height="703" frameX="-230" frameY="-86" frameWidth="988" frameHeight="972" />
+</TextureAtlas>

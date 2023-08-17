@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hortiTrueForm idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/provtruehortas",
+	"position": [
+		100,
+		20
+	],
+	"healthicon": "truehortas",
+	"flip_x": false,
+	"healthbar_colors": [
+		152,
+		43,
+		152
+	],
+	"camera_position": [
+		-340,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1.65
+}

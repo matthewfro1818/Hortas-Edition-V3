@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 17,
+			"name": "dace idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 11,
+			"name": "dace left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 11,
+			"name": "dace down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 11,
+			"name": "dace up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 11,
+			"name": "dace right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/new-dace",
+	"position": [
+		-180,
+		80
+	],
+	"healthicon": "newdace",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		255,
+		156
+	],
+	"camera_position": [
+		-230,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "bambimaddddd",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HOW YOU STILL ALIVE!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skeep fart"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambimaddddd",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "wait the what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop bop bop bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambimaddddd",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "you dont break phone???"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bes."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bambimaddddd",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "so you dont lie???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tress",
+			"boxState": "normal",
+			"expression": "talk3",
+			"text": "ok lets dance because you dont lie"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tress",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "u not lie so not me angry anymore time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tress",
+			"boxState": "normal",
+			"expression": "talk4",
+			"text": "speak brazil please"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "boopbeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tress",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "whar"
+		}
+	]
+}

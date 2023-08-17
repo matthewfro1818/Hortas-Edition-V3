@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		50
+	],
+	"scale": 0.499999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				359,
+				798
+			],
+			"loop_name": "idle0000",
+			"idle_name": "idle0000"
+		}
+	],
+	"image": "POOPOO"
+}

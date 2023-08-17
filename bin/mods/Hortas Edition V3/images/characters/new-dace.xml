@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dace.png"><SubTexture name="dace down0000" x="0" y="607" width="709" height="591" frameX="-15" frameY="-15" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace down0001" x="1807" y="459" width="498" height="445" frameX="-81" frameY="-162" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace down0002" x="1210" y="580" width="457" height="518" frameX="-131" frameY="-89" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace idle0000" x="1807" y="1336" width="568" height="341" frameX="-77" frameY="-262" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace idle0001" x="1616" y="1701" width="475" height="404" frameX="-129" frameY="-202" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace idle0002" x="1807" y="904" width="423" height="432" frameX="-149" frameY="-175" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace idle0003" x="709" y="607" width="368" height="502" frameX="-183" frameY="-105" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace left0000" x="0" y="1198" width="567" height="503" frameX="-37" frameY="-97" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace left0001" x="567" y="1198" width="477" height="502" frameX="-73" frameY="-97" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace left0002" x="1044" y="1198" width="465" height="500" frameX="-85" frameY="-99" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace right0000" x="754" y="1701" width="862" height="453" frameX="-32" frameY="-154" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace right0001" x="0" y="1701" width="754" height="457" frameX="-108" frameY="-150" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace right0002" x="1807" y="0" width="682" height="459" frameX="-151" frameY="-147" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace up0000" x="0" y="0" width="605" height="607" frameX="-106" frameY="0" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace up0001" x="605" y="0" width="605" height="601" frameX="-106" frameY="-6" frameWidth="894" frameHeight="607" />
+<SubTexture name="dace up0002" x="1210" y="0" width="597" height="580" frameX="-109" frameY="-25" frameWidth="894" frameHeight="607" />
+</TextureAtlas>

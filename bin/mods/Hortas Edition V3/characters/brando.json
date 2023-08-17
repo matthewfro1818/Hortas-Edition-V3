@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				74,
+				9
+			],
+			"indices": [],
+			"fps": 38,
+			"anim": "idle",
+			"loop": true,
+			"name": "brando idle"
+		},
+		{
+			"offsets": [
+				190,
+				32
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "brando left"
+		},
+		{
+			"offsets": [
+				-200,
+				-10
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "brando right"
+		},
+		{
+			"offsets": [
+				74,
+				-32
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "brando down"
+		},
+		{
+			"offsets": [
+				90,
+				76
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "singUP",
+			"loop": false,
+			"name": "brando up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brando",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "brando",
+	"flip_x": false,
+	"healthbar_colors": [
+		198,
+		45,
+		25
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				299,
+				23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				298,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				297,
+				21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				301,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bullgate",
+	"position": [
+		920,
+		110
+	],
+	"healthicon": "jerem",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		220,
+		93
+	],
+	"camera_position": [
+		-1160,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

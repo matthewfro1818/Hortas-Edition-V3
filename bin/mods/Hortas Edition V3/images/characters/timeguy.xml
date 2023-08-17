@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="timeguy.png">
+<SubTexture name="timeguy idle0000" x="0" y="0" width="2731" height="2565" frameX="0" frameY="-76" frameWidth="2731" frameHeight="2755" />
+</TextureAtlas>

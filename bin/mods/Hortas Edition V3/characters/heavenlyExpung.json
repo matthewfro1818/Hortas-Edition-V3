@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "heavenly idle"
+		},
+		{
+			"offsets": [
+				260,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "heavenly left"
+		},
+		{
+			"offsets": [
+				210,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "heavenly down"
+		},
+		{
+			"offsets": [
+				140,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "heavenly up"
+		},
+		{
+			"offsets": [
+				450,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "heavenly right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heavenlyEckspinch",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "holy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-900,
+		-370
+	],
+	"sing_duration": 6.1,
+	"scale": 2.7
+}

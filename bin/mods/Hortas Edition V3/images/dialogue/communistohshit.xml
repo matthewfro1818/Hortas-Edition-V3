@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="communistohshit.png">
+<SubTexture name="communistohshit idle0000" x="0" y="0" width="1284" height="1419" frameX="0" frameY="-54" frameWidth="1351" frameHeight="1576" />
+</TextureAtlas>

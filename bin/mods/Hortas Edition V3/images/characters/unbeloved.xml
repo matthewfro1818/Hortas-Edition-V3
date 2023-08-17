@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="unbeloved.png"><SubTexture name="unbeloved down0000" x="0" y="0" width="351" height="500" frameX="-273" frameY="0" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0000" x="1315" y="964" width="353" height="403" frameX="-280" frameY="-73" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0001" x="623" y="964" width="297" height="423" frameX="-312" frameY="-50" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0002" x="0" y="964" width="260" height="439" frameX="-323" frameY="-29" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0003" x="1139" y="0" width="261" height="453" frameX="-299" frameY="-14" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0004" x="864" y="500" width="261" height="454" frameX="-304" frameY="-13" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0005" x="1139" y="0" width="261" height="453" frameX="-299" frameY="-14" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0006" x="1139" y="453" width="260" height="452" frameX="-308" frameY="-15" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0007" x="864" y="500" width="261" height="454" frameX="-304" frameY="-13" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0008" x="1139" y="453" width="260" height="452" frameX="-308" frameY="-15" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0009" x="1139" y="0" width="261" height="453" frameX="-299" frameY="-14" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0010" x="864" y="500" width="261" height="454" frameX="-304" frameY="-13" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved idle0011" x="1139" y="453" width="260" height="452" frameX="-308" frameY="-15" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved left0000" x="407" y="500" width="457" height="456" frameX="-149" frameY="-1" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved left0001" x="0" y="500" width="407" height="464" frameX="-162" frameY="-1" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved left0002" x="1400" y="0" width="369" height="447" frameX="-178" frameY="-4" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved right0000" x="920" y="964" width="395" height="406" frameX="-248" frameY="-21" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved right0001" x="260" y="964" width="363" height="427" frameX="-255" frameY="-9" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved right0002" x="1400" y="447" width="329" height="440" frameX="-259" frameY="-6" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved up0000" x="351" y="0" width="268" height="500" frameX="-294" frameY="0" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved up0001" x="619" y="0" width="261" height="483" frameX="-296" frameY="0" frameWidth="862" frameHeight="500" />
+<SubTexture name="unbeloved up0002" x="880" y="0" width="259" height="481" frameX="-297" frameY="0" frameWidth="862" frameHeight="500" />
+</TextureAtlas>

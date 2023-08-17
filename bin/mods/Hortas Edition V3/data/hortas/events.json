@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "hortasbg",
+		"player1": "PurpleShadeBoyfriend",
+		"player2": "hortas",
+		"player3": null,
+		"events": [
+			[
+				19026.3157894737,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19184.2105263158,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19342.1052631579,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19657.8947368421,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19815.7894736842,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20210.5263157895,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "HORTAS"
+	}
+}

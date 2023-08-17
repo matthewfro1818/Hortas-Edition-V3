@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BEEP????!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "sklee boop bip!!??!"
+		},
+		{
+			"speed": 0.155,
+			"portrait": "POOPOO",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BEEP????????"
+		},
+		{
+			"speed": 0.115,
+			"portrait": "POOPOO",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": ".->_.-.>-.z_>-...-..---....-....-_.,?'"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "TF??????????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "POOPOO",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*shrieks*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		}
+	]
+}

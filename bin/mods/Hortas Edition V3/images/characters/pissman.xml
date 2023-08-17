@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pissman.png">
+<SubTexture name="pissman idle0000" x="0" y="0" width="3767" height="3852" frameX="-502" frameY="-1" frameWidth="4322" frameHeight="3971" />
+</TextureAtlas>

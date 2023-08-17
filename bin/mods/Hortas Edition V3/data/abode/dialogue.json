@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beb"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh hi! Long time no see!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bleep"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What's that? You want a rematch?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skleep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Sure thing! I'll give you a rematch!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep boop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "What do you mean?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep boop...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oh. This is not going to be easy.."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bab"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Infact if you don't already know.. I'm a rap veteran! I've won many rap battles and tournaments!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "No! I'm not lying! You know. I was only going easy on you last time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Oh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bab skleep bop bop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "What happened to my new look? Well... I was told my songs were more challenging if i looked like this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bop."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "So... Let's start!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I won't have mercy... Not at all!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bap beep!"
+		}
+	]
+}

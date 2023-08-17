@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "there it goes.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whatsup"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BEEP????????????"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "literally saw you talking ma boi what you doin here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "alright you got me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i sure did"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wanna rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "y tho"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cuz im kind of stressed seeing everybody vanish"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh i know whyyhyyy"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "why????????????????????????????????\\n??????????????????????????????????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "because of cumbi"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "cumbi?????????????????????????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "oh shit i messed up i meant conbi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what's that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "the cone guy you saw earlier"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "but like he can't even move????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "telekinesis"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH\\nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH\\nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sep",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "wanna rap battle before i somehow vanish"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "sure"
+		}
+	]
+}

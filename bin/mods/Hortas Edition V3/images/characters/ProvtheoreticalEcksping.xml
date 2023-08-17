@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ProvtheoreticalEcksping.png"><SubTexture name="TheoreticalEcksping idle0000" x="0" y="0" width="711" height="693" frameX="-359" frameY="-113" frameWidth="1416" frameHeight="871" />
+</TextureAtlas>

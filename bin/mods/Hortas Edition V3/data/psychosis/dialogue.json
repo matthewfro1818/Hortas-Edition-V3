@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "omg he vanished like he said"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "howwwwwwwwwwwwwwwwwwww"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wusnick",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "PRIVET."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "whar"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wusnick",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "CHTO TY?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what are you talking about wtf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wusnick",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "VY RAZRUSHAYETE ETO MESTO. UBIRAYSYA."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "???????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what language is that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wusnick",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "VY NE PONIMAYETE? ETO RUSSKOYE."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "whatever dude..."
+		}
+	]
+}

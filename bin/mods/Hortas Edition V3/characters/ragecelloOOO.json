@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ALT idle"
+		},
+		{
+			"offsets": [
+				35,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ALT up"
+		},
+		{
+			"offsets": [
+				80,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ALT right"
+		},
+		{
+			"offsets": [
+				24,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ALT down"
+		},
+		{
+			"offsets": [
+				140,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ALT left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/evenMadBambi",
+	"position": [
+		90,
+		240
+	],
+	"healthicon": "rageman",
+	"flip_x": false,
+	"healthbar_colors": [
+		185,
+		0,
+		0
+	],
+	"camera_position": [
+		-30,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

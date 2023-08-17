@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="upheaval-new.png"><SubTexture name="upheaval-new idle0000" x="523" y="0" width="523" height="646" frameX="-117" frameY="-38" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new idle0001" x="1046" y="0" width="450" height="608" frameX="-166" frameY="-74" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new idle0002" x="260" y="777" width="278" height="582" frameX="-259" frameY="-103" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new idle0003" x="538" y="777" width="260" height="575" frameX="-281" frameY="-111" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new left0000" x="1496" y="0" width="528" height="557" frameX="-94" frameY="-132" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new left0001" x="798" y="777" width="376" height="570" frameX="-166" frameY="-120" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new left0002" x="1174" y="777" width="270" height="561" frameX="-208" frameY="-116" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new right0000" x="0" y="1360" width="654" height="527" frameX="-147" frameY="-145" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new right0001" x="1496" y="557" width="521" height="506" frameX="-194" frameY="-156" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new right0002" x="654" y="1360" width="378" height="500" frameX="-289" frameY="-173" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new up0000" x="0" y="0" width="263" height="777" frameX="-283" frameY="-17" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new up0001" x="263" y="0" width="260" height="703" frameX="-281" frameY="-91" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new up0002" x="0" y="777" width="260" height="583" frameX="-281" frameY="-211" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new down0000" x="1032" y="1360" width="424" height="480" frameX="-185" frameY="-122" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new down0001" x="2024" y="0" width="474" height="401" frameX="-179" frameY="-190" frameWidth="829" frameHeight="821" />
+<SubTexture name="upheaval-new down0002" x="1456" y="1360" width="414" height="457" frameX="-215" frameY="-154" frameWidth="829" frameHeight="821" />
+</TextureAtlas>

@@ -1,0 +1,58 @@
+{
+	"storyName": "bambivolution 4: hortasvolution",
+	"difficulties": "Normal, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "bambi4",
+	"freeplayColor": [
+		125,
+		255,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"hortas",
+			"hortas",
+			[
+				125,
+				255,
+				0
+			]
+		],
+		[
+			"gardens",
+			"unbeloved",
+			[
+				125,
+				255,
+				0
+			]
+		],
+		[
+			"garden-stealer",
+			"unbeloved",
+			[
+				125,
+				255,
+				0
+			]
+		],
+		[
+			"deforester",
+			"truehortas",
+			[
+				125,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bambi4"
+}

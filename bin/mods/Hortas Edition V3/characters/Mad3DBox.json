@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "AngryBox idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "AngryBox left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "AngryBox down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				30
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "AngryBox up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "AngryBox right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mad3DBox",
+	"position": [
+		-50,
+		0
+	],
+	"healthicon": "mad3dbox",
+	"flip_x": false,
+	"healthbar_colors": [
+		164,
+		114,
+		78
+	],
+	"camera_position": [
+		-930,
+		-620
+	],
+	"sing_duration": 6.1,
+	"scale": 3.7
+}

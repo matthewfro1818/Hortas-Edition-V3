@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cessated.png"><SubTexture name="Cessated idle0000" x="750" y="0" width="1451" height="1370" frameX="-1" frameY="-28" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated idle0001" x="0" y="1397" width="1208" height="1236" frameX="-78" frameY="-129" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated idle0002" x="0" y="2633" width="957" height="1125" frameX="-234" frameY="-276" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated idle0003" x="3026" y="2633" width="714" height="1033" frameX="-453" frameY="-363" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated down0000" x="1208" y="1397" width="1271" height="1210" frameX="-212" frameY="-164" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated down0001" x="957" y="2633" width="1356" height="1121" frameX="-122" frameY="-190" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated down0002" x="935" y="3758" width="974" height="867" frameX="-312" frameY="-212" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated left0000" x="2989" y="0" width="1288" height="1200" frameX="-3" frameY="-234" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated left0001" x="2989" y="1200" width="1209" height="1134" frameX="-98" frameY="-307" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated left0002" x="4277" y="1032" width="977" height="1019" frameX="-313" frameY="-412" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated right0000" x="4277" y="0" width="1432" height="1032" frameX="-55" frameY="-238" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated right0001" x="4277" y="2051" width="1280" height="985" frameX="-107" frameY="-263" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated right0002" x="0" y="3758" width="935" height="911" frameX="-246" frameY="-314" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated up0000" x="0" y="0" width="750" height="1397" frameX="-378" frameY="-8" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated up0001" x="2201" y="0" width="788" height="1289" frameX="-392" frameY="-91" frameWidth="1575" frameHeight="1500" />
+<SubTexture name="Cessated up0002" x="2313" y="2633" width="713" height="1082" frameX="-422" frameY="-244" frameWidth="1575" frameHeight="1500" />
+</TextureAtlas>

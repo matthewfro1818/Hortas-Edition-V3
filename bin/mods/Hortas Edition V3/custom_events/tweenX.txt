@@ -1,0 +1,4 @@
+Tween's the X Position of the Value 1.
+
+Value 1: Tag
+Value 2: X Value, Duration, Ease

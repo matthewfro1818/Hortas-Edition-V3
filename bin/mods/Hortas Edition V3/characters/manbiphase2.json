@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				300,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/manbiphase2",
+	"position": [
+		100,
+		20
+	],
+	"healthicon": "manbip2",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		195
+	],
+	"camera_position": [
+		-180,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

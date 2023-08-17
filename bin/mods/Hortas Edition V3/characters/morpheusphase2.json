@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				251
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "morpheusphase2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				201
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "morpheusphase2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				331
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "morpheusphase2 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				341
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "morpheusphase2 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				201
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "morpheusphase2 idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/popoman",
+	"position": [
+		-190,
+		160
+	],
+	"healthicon": "forsaken",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		3,
+		40
+	],
+	"camera_position": [
+		-360,
+		-280
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

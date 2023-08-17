@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="communistohshit.png"><SubTexture name="urw-animated singDOWN0000" x="1834" y="0" width="424" height="442" frameX="-164" frameY="-213" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated singDOWN0001" x="902" y="1264" width="446" height="482" frameX="-145" frameY="-145" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated singUP0000" x="0" y="0" width="632" height="664" frameX="0" frameY="0" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated singUP0001" x="1264" y="0" width="570" height="554" frameX="-4" frameY="0" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated singRIGHT0000" x="1264" y="554" width="436" height="510" frameX="-193" frameY="-90" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated singRIGHT0001" x="0" y="1264" width="455" height="502" frameX="-153" frameY="-93" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated singLEFT0000" x="1348" y="1264" width="469" height="469" frameX="-1" frameY="-111" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated singLEFT0001" x="455" y="1264" width="447" height="490" frameX="-31" frameY="-116" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated idle0000" x="632" y="0" width="632" height="664" frameX="0" frameY="0" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated idle0001" x="0" y="664" width="536" height="600" frameX="-66" frameY="-36" frameWidth="632" frameHeight="664" />
+<SubTexture name="urw-animated idle0002" x="536" y="664" width="550" height="588" frameX="-33" frameY="-46" frameWidth="632" frameHeight="664" />
+</TextureAtlas>

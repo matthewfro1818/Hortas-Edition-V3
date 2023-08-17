@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				201,
+				62
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				474,
+				150
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				310,
+				60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				330,
+				40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				265,
+				87
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Oldfard_bambi",
+	"position": [
+		160,
+		170
+	],
+	"healthicon": "fardOld",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		40
+	],
+	"camera_position": [
+		-180,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

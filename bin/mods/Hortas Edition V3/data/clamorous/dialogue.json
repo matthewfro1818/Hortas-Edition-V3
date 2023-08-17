@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "alright what the fuck was that"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hello???"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "manbip1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Are you okay??"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "manbip2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*shrieks*"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "!!!"
+		}
+	]
+}

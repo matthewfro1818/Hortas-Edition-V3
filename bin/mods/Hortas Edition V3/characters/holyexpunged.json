@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 5,
+			"name": "heavenly idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				97,
+				-115
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "heavenly down"
+		},
+		{
+			"offsets": [
+				100,
+				22
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singUP",
+			"loop": false,
+			"name": "heavenly up"
+		},
+		{
+			"offsets": [
+				230,
+				-42
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "heavenly left"
+		},
+		{
+			"offsets": [
+				-37,
+				-128
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "heavenly right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/holyexpunged",
+	"position": [
+		610,
+		-420
+	],
+	"healthicon": "holy",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		201,
+		41
+	],
+	"camera_position": [
+		-310,
+		30
+	],
+	"sing_duration": 3.8,
+	"scale": 1.3
+}

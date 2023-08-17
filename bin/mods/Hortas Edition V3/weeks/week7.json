@@ -1,0 +1,67 @@
+{
+	"storyName": "bambivolution 7: the actual finale..",
+	"difficulties": "Normal, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "bambi7",
+	"freeplayColor": [
+		255,
+		140,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"dissonant",
+			"manbip3",
+			[
+				145,
+				0,
+				0
+			]
+		],
+		[
+			"incomprehensible",
+			"weird",
+			[
+				135,
+				135,
+				135
+			]
+		],
+		[
+			"diastatikos",
+			"sex",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"theoretical",
+			"expu",
+			[
+				255,
+				0,
+				145
+			]
+		],
+        [
+			"providence",
+			"proconbi",
+			[
+				255,
+				140,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bambi7"
+}

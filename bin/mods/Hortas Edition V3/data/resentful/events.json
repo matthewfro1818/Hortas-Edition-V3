@@ -1,0 +1,244 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "burnFarm",
+		"player1": "BFResentful1",
+		"player2": "ragecello",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				2666.66666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				4000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				5333.33333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				9333.33333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				10666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				13333.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				14666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				18666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				20333.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				20666.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				21083.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				21166.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				21208.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				21250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				21291.6666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				21333.3333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						""
+					]
+				]
+			],
+			[
+				106333.333333333,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BFResentful2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"ragecelloOOOShade"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "RESENTFUL"
+	}
+}

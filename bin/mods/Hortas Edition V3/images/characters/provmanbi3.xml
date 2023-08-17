@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="provmanbi3.png"><SubTexture name="manbe idle0000" x="0" y="0" width="453" height="635" frameX="0" frameY="0" frameWidth="453" frameHeight="635" />
+<SubTexture name="manbe idle0001" x="453" y="0" width="453" height="635" frameX="0" frameY="0" frameWidth="453" frameHeight="635" />
+<SubTexture name="manbe idle0002" x="906" y="0" width="453" height="635" frameX="0" frameY="0" frameWidth="453" frameHeight="635" />
+<SubTexture name="manbe idle0003" x="1359" y="0" width="453" height="635" frameX="0" frameY="0" frameWidth="453" frameHeight="635" />
+<SubTexture name="manbe idle0004" x="0" y="635" width="453" height="635" frameX="0" frameY="0" frameWidth="453" frameHeight="635" />
+<SubTexture name="manbe left0000" x="453" y="635" width="634" height="738" frameX="0" frameY="0" frameWidth="634" frameHeight="738" />
+<SubTexture name="manbe left0001" x="1087" y="635" width="634" height="738" frameX="0" frameY="0" frameWidth="634" frameHeight="738" />
+<SubTexture name="manbe left0002" x="1721" y="635" width="634" height="738" frameX="0" frameY="0" frameWidth="634" frameHeight="738" />
+<SubTexture name="manbe down0000" x="0" y="1373" width="400" height="592" frameX="0" frameY="0" frameWidth="400" frameHeight="592" />
+<SubTexture name="manbe down0001" x="400" y="1373" width="400" height="592" frameX="0" frameY="0" frameWidth="400" frameHeight="592" />
+<SubTexture name="manbe down0002" x="800" y="1373" width="400" height="592" frameX="0" frameY="0" frameWidth="400" frameHeight="592" />
+<SubTexture name="manbe up0000" x="1200" y="1373" width="431" height="874" frameX="0" frameY="0" frameWidth="431" frameHeight="874" />
+<SubTexture name="manbe up0001" x="0" y="2247" width="431" height="874" frameX="0" frameY="0" frameWidth="431" frameHeight="874" />
+<SubTexture name="manbe up0002" x="431" y="2247" width="431" height="874" frameX="0" frameY="0" frameWidth="431" frameHeight="874" />
+<SubTexture name="manbe right0000" x="862" y="2247" width="582" height="617" frameX="0" frameY="0" frameWidth="582" frameHeight="617" />
+<SubTexture name="manbe right0001" x="1444" y="2247" width="582" height="617" frameX="0" frameY="0" frameWidth="582" frameHeight="617" />
+<SubTexture name="manbe right0002" x="0" y="3121" width="582" height="617" frameX="0" frameY="0" frameWidth="582" frameHeight="617" />
+</TextureAtlas>

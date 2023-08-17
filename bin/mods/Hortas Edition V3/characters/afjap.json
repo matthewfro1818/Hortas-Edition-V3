@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "afjap idle"
+		},
+		{
+			"offsets": [
+				100,
+				-70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "afjap left"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "afjap down"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "afjap up"
+		},
+		{
+			"offsets": [
+				-100,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "afjap right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/afjap",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "joim",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

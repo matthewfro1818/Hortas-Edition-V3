@@ -1,0 +1,58 @@
+{
+	"storyName": "bambivolution 2",
+	"difficulties": "Normal, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "bambi2",
+	"weekBefore": "bambi1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"cacophonous",
+			"manbip1",
+			[
+				255,
+				60,
+				60
+			]
+		],
+		[
+			"clamorous",
+			"manbip2",
+			[
+				255,
+				60,
+				60
+			]
+		],
+		[
+			"septuagint",
+			"sep",
+			[
+				255,
+				60,
+				60
+			]
+		],
+		[
+			"psychosis",
+			"russia",
+			[
+				255,
+				60,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Hortas2"
+}

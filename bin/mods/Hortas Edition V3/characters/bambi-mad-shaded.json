@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				30,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-36,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bambimadddddbutshaded",
+	"position": [
+		60,
+		290
+	],
+	"healthicon": "screw",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		0
+	],
+	"camera_position": [
+		-90,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

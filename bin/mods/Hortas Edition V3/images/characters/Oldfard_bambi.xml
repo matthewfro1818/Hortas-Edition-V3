@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Oldfard_bambi.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="2742" y="0" width="596" height="641"/>
+	<SubTexture name="idle0001" x="2162" y="0" width="553" height="641"/>
+	<SubTexture name="idle0002" x="1616" y="0" width="504" height="641"/>
+	<SubTexture name="idle0003" x="1616" y="0" width="504" height="641"/>
+	<SubTexture name="idle0004" x="1616" y="0" width="504" height="641"/>
+	<SubTexture name="singDOWN0000" x="812" y="769" width="831" height="659"/>
+	<SubTexture name="singDOWN0001" x="812" y="769" width="831" height="659"/>
+	<SubTexture name="singDOWN0002" x="812" y="769" width="831" height="659"/>
+	<SubTexture name="singDOWN0003" x="812" y="769" width="831" height="659"/>
+	<SubTexture name="singDOWN0004" x="812" y="769" width="831" height="659"/>
+	<SubTexture name="singLEFT0000" x="66" y="37" width="704" height="651"/>
+	<SubTexture name="singLEFT0001" x="66" y="37" width="704" height="651"/>
+	<SubTexture name="singLEFT0002" x="66" y="37" width="704" height="651"/>
+	<SubTexture name="singLEFT0003" x="66" y="37" width="704" height="651"/>
+	<SubTexture name="singLEFT0004" x="66" y="37" width="704" height="651"/>
+	<SubTexture name="singRIGHT0000" x="758" y="0" width="761" height="690"/>
+	<SubTexture name="singRIGHT0001" x="758" y="0" width="761" height="690"/>
+	<SubTexture name="singRIGHT0002" x="758" y="0" width="761" height="690"/>
+	<SubTexture name="singRIGHT0003" x="758" y="0" width="761" height="690"/>
+	<SubTexture name="singRIGHT0004" x="758" y="0" width="761" height="690"/>
+	<SubTexture name="singUP0000" x="106" y="747" width="629" height="760"/>
+	<SubTexture name="singUP0001" x="106" y="747" width="629" height="760"/>
+	<SubTexture name="singUP0002" x="106" y="747" width="629" height="760"/>
+	<SubTexture name="singUP0003" x="106" y="747" width="629" height="760"/>
+	<SubTexture name="singUP0004" x="106" y="747" width="629" height="760"/>
+</TextureAtlas>

@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BEEP?!?!?!?!?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talkshade",
+			"text": "who is here??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "fart peepoo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talkshade",
+			"text": "oh my god someone is here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop bop bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i havent seen anyone since 69 years ago"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "whar"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skleep bloop bip bap\\n"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you want to have a rap battle?"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beeeeeeeeeeeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fard",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok!!"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+Tween's the Alpha Value of the Value 1.
+
+Value 1: Tag
+Value 2: Alpha Value, Duration, Ease
